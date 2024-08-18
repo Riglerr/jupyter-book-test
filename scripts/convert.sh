@@ -1,0 +1,1 @@
+python -m nbconvert --execute --to html --HTMLExporter.theme=dark notebooks.ipynb
